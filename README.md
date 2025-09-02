@@ -10,17 +10,17 @@
 <img align="right" alt="Coding" width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🌱 Currently learning **C++, Python, Kotlin, and System Design**  
-- 🛠️ Working with **Next.js | React | Firebase | Tailwind | Node.js | SQL | Docker | AWS | Linux**  
+- 🛠️ Working with **React.js | React | Firebase | Tailwind | Node.js | SQL | Docker | AWS | Linux**  
 - 🎓 Pursuing **B.Tech at IIT Kharagpur**  
-- 📫 Reach me at **[add your email here]**  
+- 📫 Reach me at **[santudas1602@gmail.com]**  
 - ⚡ Fun fact: *I love experimenting with Linux distros and building smooth UIs 🤩*  
 
 ---
 
 ## 🌐 Connect with me  
 <p align="center">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40"/></a>
-<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="40"/></a>
+<a href="https://linkedin.com/in/santudas" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40"/></a>
+<a href="mailto:santudas1602@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="40"/></a>
 <a href="https://twitter.com/YOUR-TWITTER" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter" height="40"/></a>
 </p>
 
