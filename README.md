@@ -1,5 +1,5 @@
 <h1 align="center">⚡ Hey, I'm Santu Das ⚡</h1>
-<h3 align="center">🚀 Full-Stack Developer | React.js | Cloud | IIT Kharagpur 🚀</h3>
+<h3 align="center">🚀 Full-Stack Developer | React.js | Cloud | IIT Kharagpur 🚀 | I Use Arch Btw </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=36BCF7&center=true&vCenter=true&width=700&lines=💻+Full-Stack+%26+App+Developer;⚡+Linux+%26+Cloud+Enthusiast;🎯+Data+Structures+%26+Algorithms+Learner;🎓+Student+at+IIT+Kharagpur" />
