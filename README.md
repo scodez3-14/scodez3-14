@@ -4,8 +4,6 @@
 
 ---
 
-<img align="right" alt="Coding" width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 - 🌱 Currently learning **C++, Python, Kotlin, and System Design**  
 - 🛠️ Working with **React.js | React | Firebase | Tailwind | Node.js | SQL | Docker | AWS | Linux**  
 - 🎓 Pursuing **B.Tech at IIT Kharagpur**  
