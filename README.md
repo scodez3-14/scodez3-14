@@ -4,11 +4,11 @@
 
 ---
 
-- 🌱 Currently learning **C++, Python, Kotlin, and System Design**  
-- 🛠️ Working with **React.js | React | Firebase | Tailwind | Node.js | SQL | Docker | AWS | Linux**  
-- 🎓 Pursuing **B.Tech at IIT Kharagpur**  
-- 📫 Reach me at **[santudas1602@gmail.com]**  
-- ⚡ Fun fact: *I love experimenting with Linux distros and building smooth UIs 🤩*  
+-  Currently learning **C++, Python, Kotlin, and System Design**  
+- Working with **React.js | React | Firebase | Tailwind | Node.js | SQL | Docker | AWS | Linux**  
+- Pursuing **B.Tech at IIT Kharagpur**  
+- Reach me at **[santudas1602@gmail.com]**  
+- Fun fact: *I love experimenting with Linux distros*  
 
 ---
 
