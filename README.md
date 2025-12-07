@@ -1,26 +1,6 @@
 <h1 align="center"> Hey, I'm Santu Das</h1>
 <h3 align="center"> I Use Arch Btw </h3>
 
-
----
-
--  Currently learning **C++, Python, Kotlin, and System Design**  
-- Working with **React.js | React | Firebase | Tailwind | Node.js | SQL | Docker | AWS | Linux**  
-- Pursuing **B.Tech at IIT Kharagpur**  
-- Reach me at **[santudas1602@gmail.com]**  
-- Fun fact: *I love experimenting with Linux distros*  
-
----
-
-## 🌐 Connect with me  
-<p align="center">
-<a href="https://linkedin.com/in/santudas" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40"/></a>
-<a href="mailto:santudas1602@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="40"/></a>
-<a href="https://twitter.com/YOUR-TWITTER" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter" height="40"/></a>
-</p>
-
----
-
 ## 🛠️ Tech Stack  
 <p align="center">
   <!-- Core -->
