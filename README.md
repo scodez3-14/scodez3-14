@@ -1,4 +1,3 @@
-<h1 align="center"> Hey, I'm Santu Das(<h3 align="center"> I Use Arch Btw </h3>)</h1>
 
 ## 🛠️ Tech Stack  
 <p align="center">
